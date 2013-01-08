@@ -1,0 +1,41 @@
+// by Peter Li
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// v1.01 - 5/11/12
+// - Improved collision detection
+// - Added pits
+// - Efficiency improvements
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// v1.0 - 5/10/12
+// - Initial Release
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Project Log
+~~~~~~~~~~~
+
+5/7/12:
+- Created background, menu, stat, and player images
+- Imported music
+- Menu and stats completed
+
+5/8/12:
+- Added command console
+- Created test level
+- Created fails.num file
+- Added player jump
+
+5/9/12:
+- Added rotation to player
+- Completed sidescrolling
+- Added drawing to objects
+- Added partial collision detection
+
+5/10/12:
+- Completed collision detection
+- Completed level 1 design
+- Initial release
+
+5/11/12:
+- Various bugs fixed
+- Collision detection tuned
+- Efficiency improvements
+- Added pits
